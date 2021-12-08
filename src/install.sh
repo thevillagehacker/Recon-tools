@@ -49,11 +49,6 @@ echo "[+] Installing Aquatone"
 go get github.com/michenriksen/aquatone
 echo "[+] done"
 
-#install chromium
-echo "[+] Installing Chromium"
-sudo snap install chromium
-echo "[+] done"
-
 #install JSParser
 echo "[+] installing JSParser"
 git clone https://github.com/nahamsec/JSParser.git
