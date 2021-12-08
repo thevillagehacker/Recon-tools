@@ -37,7 +37,7 @@ fi
 
 #Don't forget to set up AWS credentials!
 echo "[+] Don't forget to set up AWS credentials!"
-sudo apt install -y awscli
+sudo apt install awscli
 echo "[+] Don't forget to set up AWS credentials!"
 
 #create a tools folder in ~/
